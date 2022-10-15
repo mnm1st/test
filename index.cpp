@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-	printf("testing....");
-	// new line
+	printf("2nd commit");
 	return 0;
 }
